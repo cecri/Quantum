@@ -1,3 +1,3 @@
 # Quantum
 
-C++ library for calculation of macroscopic quantumness 
+C++ library for the calculation of macroscopic quantumness 
